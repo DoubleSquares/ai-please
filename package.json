@@ -1,8 +1,0 @@
-{
-  "name": "ai-please",
-  "version": "1.0.0",
-  "description": "A simple to use JavaScript library for interacting with multiple AIs.",
-  "main": "ai-please.js",
-  "author": "DoubleSquare",
-  "license": "Apache-2.0"
-}
