@@ -1,5 +1,4 @@
 // ai-please.js
-// Created by DoubleSquare, 2025
 
 class AIProvider {
   constructor(name, options = {}) {
